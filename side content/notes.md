@@ -14,3 +14,5 @@ Trading quest – Finding a key NPC that will trade up a series of special items
 NPC 1 – “Oh, you have a Stuffed Bear? Can I trade it for a Pink Pangolin Stuffy?
 
 NPC 2 – “Hey, that’s a Pink Pangolin! Can I trade you this Fishing Rod that my dad used to own?”
+
+NPC 3
