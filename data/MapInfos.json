@@ -1,5 +1,6 @@
 [
-null,
-{"id":1,"expanded":false,"name":"Mansion Interior F1","order":1,"parentId":0,"scrollX":710,"scrollY":4067.5},
-{"id":2,"expanded":false,"name":"World Map","order":2,"parentId":0,"scrollX":1587,"scrollY":2664.5}
+    null,
+{"id":1,"expanded":false,"name":"Mansion Interior F1","order":1,"parentId":0,"scrollX":574.4,"scrollY":506},
+{"id":2,"expanded":false,"name":"World Map","order":2,"parentId":0,"scrollX":1579,"scrollY":2296.5},
+{"id":3,"expanded":false,"name":"Iindu - Training Grounds","order":3,"parentId":0,"scrollX":516.3636363636364,"scrollY":470.90909090909093}
 ]
